@@ -1,6 +1,6 @@
-package kr.ac.hansung.cse.hellospringdatajpa.repo;
+package kr.ac.hansung.cse.hellospringdatajpa.product.repo;
 
-import kr.ac.hansung.cse.hellospringdatajpa.entity.Product;
+import kr.ac.hansung.cse.hellospringdatajpa.product.entity.Product;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
